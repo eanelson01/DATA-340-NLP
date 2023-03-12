@@ -5,7 +5,7 @@ In this project, I hope to better understand how fans talk about the NBA and its
 
 ### Project Timeline
 
-- Gather the data from the subreddit using a reddit API. The API I have found and will look into is called "Pushshift Reddit API."
+- Gather the data from the subreddit using a reddit API. The API I will use is the Python Reddit API Wrapper (PRAW)
 - Once I have the data, I will need to do preprocessing and exploratory analysis. This includes tokenization using the NLTK library to distill words to their root. 
 - One complication with the preprocessing could be dealing with short-hand, misspelled, or slang words that could be in the text due to it being an online format. I will need to find a way to deal with these. 
 - Isolate text based on teams or players mentioned in the text. Calculate word frequency counts for teams and players. With this, decide which players are talked about the most or least. Potentially graph these findings.
