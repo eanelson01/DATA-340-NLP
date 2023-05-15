@@ -18,7 +18,7 @@ I did not find any restrictive license on the use of the data. All I found were 
 
 The code to get the data can be found [here](project_notebooks/data_set_creation.ipynb). 
 
-The actual dataset can be found [here](nba_reddit_threads_data.csv).
+The actual dataset can be found [here](data/nba_reddit_threads_data.csv).
 
 ## 2) Description of the Data
 
