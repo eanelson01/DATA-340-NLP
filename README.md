@@ -34,7 +34,7 @@ This graph shows the top 25 entities from the titles of each post based on their
 
 ### Split of Positive & Negative Sentiments for Comments & Titles
 
-Both of these graphs examine the distribution of sentiments. The first graph looks at the comments and the second looks at the titles. The overwhelming takeaway is that r/NBA posts which are most upvoted have a negative sentiment a majority of the time.
+Both of these graphs examine the distribution of sentiments. The first graph looks at the comments and the second looks at the titles. The overwhelming takeaway is that r/NBA posts which are the most up-voted have a negative sentiment a majority of the time. The titles are slightly less negative but still a majority are. 
 
 ![Split of Positive & Negative Comments](images/positive_negative_split_comments.png)
 
@@ -89,7 +89,7 @@ The graph that shows the entities with the highest percentage of negative commen
 
 The results for negative titles are more self-explaining and follow the trends of news stories over the past year. Kyrie Irving, Draymond Green, Ben Simmons, and Jordan Poole lead the results. Kyrie and Ben are understandable because they had a lot of drama while on the Brooklyn Nets. These stories included [Kyrie demanding a trade]((https://www.nba.com/news/kyrie-irving-requests-trade) ) and [Ben Simmons having continual back problems]((https://www.espn.com/nba/story/_/id/33857255/brooklyn-nets-ben-simmons-undergo-back-surgery-expected-recovery-line-3-4-months-sources-say)) which kept him from playing. Similarly, Draymond Green and Jordan Poole were also linked in drama as teammates. At the start of the year, [Green punched Poole during a practice](https://bleacherreport.com/articles/10051693-warriors-draymond-green-apologizes-for-punching-jordan-poole-i-was-wrong), sparking an outrage in the NBA community. For these reasons, these results are consistent with assumptions. 
 
-For the entities with the highest percentage of comments, 3 of the top 5 were players from the past generations. Those 3 include Dirk Nowitzki, Michael Jordan, and Kareem Abdul-Jabbar. This positivity towards the past generations can be explained in a couple of ways. For Dirk, it could be because of his well-admired championship run in 2011. Many look upon that championship fondly because he accomplished it without another star player. As for Michael Jordan, it could be because he is considered the greatest player of all time. The most surprising of these 3 is Kareem, who during his playing time was often called aloof and [boring](https://www.complex.com/sports/2012/04/the-10-greatest-boring-players-in-nba-history). An explanation could be increasing nostalgia for past-generation, or reverence as people appreciate his accomplishments more once LeBron James passed him in all-time scoring.
+For the entities with the highest percentage of comments, 3 of the top 5 were players from the past generations. Those 3 include Dirk Nowitzki, Michael Jordan, and Kareem Abdul-Jabbar. This positivity towards the past generations can be explained in a couple of ways. For Dirk, it could be because of his well-admired championship run in 2011. Many look upon that championship fondly because he accomplished it without another star player. As for Michael Jordan, it could be because he is considered the greatest player of all time. The most surprising of these 3 is Kareem, who during his playing time was often called aloof and boring (Pearlman). An explanation could be increasing nostalgia for past-generation, or reverence as people appreciate his accomplishments more once LeBron James passed him in all-time scoring.
 
 
 
@@ -109,3 +109,13 @@ I did not find any projects that had the same goal as this one. For this reason,
 
 
 The goal of this project was to identify the teams and players who were discussed the most frequently on the r/NBA subreddit. In addition, the project aimed to identify if these entities were discussed in a positive or negative light. This project identified that the majority of comments on the subreddit have a negative sentiment and that the individuals with the largest amount of negative comments were those who had off-the-court drama. These findings can provide information to the NBA to identify which players should be marketed more and which entities need help to change their general perception by the NBA community. Future research could identify the most common descriptors of each player as well as which players are grouped together most often based on their sentiments. This could further provide insight on the perception of the NBA and its players and teams.
+
+# References
+
+- Daniels, Tim. “Warriors’ Draymond Green Apologizes for Punching Jordan Poole; ‘I Was Wrong.’” *Bleacher Report*, 8 Oct. 2022, bleacherreport.com/articles/10051693-warriors-draymond-green-apologizes-for-punching-jordan-poole-i-was-wrong.
+- Mahoney, Brian. “Reports: Kyrie Irving Requests Trade from Nets before Deadline.” *NBA*, 5 Feb. 2023, www.nba.com/news/kyrie-irving-requests-trade.
+- Martin, Josh. “Does Market Size Even Matter Anymore in the NBA?” *Bleacher Report*, 2 Oct. 2017, bleacherreport.com/articles/1865112-does-market-size-even-matter-anymore-in-the-nba.
+- Pearlman, Jeff. *Showtime: Magic, Kareem, Riley, and the Los Angeles Lakers Dynasty of the 1980s*. Gotham Books, 2014.
+- “Skip and Shannon: Undisputed About.” *Skip and Shannon: Undisputed About | FOX Sports*, www.foxsports.com/shows/skip-and-shannon-undisputed/about. Accessed 15 May 2023.
+- Wojnarowski, Adrian. “Brooklyn Nets’ Ben Simmons Has Back Surgery; Expected Recovery Timeline of 3-4 Months, Sources Say.” *ESPN*, 4 May 2022, www.espn.com/nba/story/_/id/33857255/brooklyn-nets-ben-simmons-undergo-back-surgery-expected-recovery-line-3-4-months-sources-say.
+- Wojnarowski, Adrian. “The World of NBA Insider Adrian Wojnarowski.” *ESPN*, www.espn.com/nba/world-of-woj/. Accessed 15 May 2023. 
